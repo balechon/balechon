@@ -1,4 +1,4 @@
-## Hey I'm Bryan Lechón 🙂 glad to see you here!
+## Hey I'm Bryan 🙂 glad to see you here!
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=balechon.balechon&style=flat-square&color=0088cc)
