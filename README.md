@@ -9,7 +9,7 @@ This is a little repository to learn more about me ✅ &nbsp;
 ### First of all, a few personal stuffs:
 
 - I'm from Cayambe - Ecuador 🟡🔵🔴
-- I'm Electronic Engineering 🤖
+- I'm Electronic Engineer 🤖
 - I've been learnig about Data Science 🧪
 - I'm currently learning Python 🐍 and Go 👀  
 
