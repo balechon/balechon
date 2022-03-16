@@ -29,10 +29,9 @@ This is a little repository to learn more about me ✅ &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balechon&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balechon&layout=compact"/>
      
 ### Conect with me 🤝🏻
-<p align="left">
-    <a href="https://www.linkedin.com/in/balechon96/" target="_blank"><img alt="LinkedIn" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
-    <a href="mailto:balechon96@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
-</p>  
+- LinkedIn : https://www.linkedin.com/in/balechon96/
+- Email: balechon96@gmail.com
+   
      
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balechon&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balechon&layout=compact)](https://github.com/balechon/github-readme-stats) -->
 
